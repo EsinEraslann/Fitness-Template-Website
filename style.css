@@ -1,0 +1,30 @@
+
+header{
+    height: 580px;
+}
+
+.title{
+    font-size: 45px;
+}
+
+.fa-regular{
+    background-color: #2c80fd ;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.text{
+    color: #909294;
+    font-size: 22px;
+}
+
+.card{
+    width: 370px;
+}
+
+aside{
+    margin: 5% 10%;
+}
