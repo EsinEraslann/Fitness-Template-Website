@@ -7,8 +7,8 @@ header{
     font-size: 45px;
 }
 
-.fa-regular{
-    background-color: #2c80fd ;
+.fa-solid{
+    background-color: #86888b ;
     color: white;
     font-size: 25px;
     padding: 10px;
@@ -27,4 +27,14 @@ header{
 
 aside{
     margin: 5% 10%;
+}
+
+.blog{
+    background: url(picture/bg-img.jpg);
+}
+
+.andrew{
+    background-color: black;
+    opacity: 0.6;
+
 }
