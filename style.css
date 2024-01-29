@@ -63,8 +63,15 @@ aside{
 
 }
 
+.icon i{
+    background-color: #dc3545;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    font-size: 25px;
+}
 
-.icon{
+/* .icon{
     color: white;
     font-size: 25px;
     width: 5%;
@@ -74,3 +81,4 @@ aside{
     margin: 0 48%;
 }
 
+ */
